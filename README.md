@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minyoungleephd
-- 👀 I’m interested in Advanced Learning Technologies and UX Design.
-- 🌱 I’m currently learning Educational Technology and Human Centered Computing.
+- 👀 I’m interested in Advanced Learning Technologies(VR, AI, etc.) and UX Research/Design.
+- 🌱 I’m currently learning about Educational Technology and Human Centered Computing.
 - 📫 How to reach me: minlee306@gmail.com
 
 <!---
